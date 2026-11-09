@@ -1,73 +1,65 @@
-<h1 align="center">Hey, I'm Shorya 👋</h1>
+Hey, I'm Shorya 👋
+
 <p align="center">
-  <b>Full Stack Developer | Backend Developer | CSE Student</b>
+  <strong>Full Stack Developer | Backend Developer | CSE Student</strong>
   <br/>
-  Building useful products and learning by shipping.
+  Building practical applications and turning ideas into reality.
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shoryadevraj&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" />
+  <a href="https://github.com/shoryadevraj">
+    <img src="https://komarev.com/ghpvc/?username=shoryadevraj&style=flat-square&color=58a6ff&label=PROFILE+VIEWS"/>
+  </a>
 </p>---
 
-About Me
+👨‍💻 About Me
 
 - 🎓 Computer Science & Engineering student
 - 💻 Interested in Full Stack and Backend Development
-- 🚀 Building applications with JavaScript, React, Node.js and Python
+- 🚀 Working with JavaScript, React, Node.js and Python
 - 📱 Exploring Android development with Kotlin
-- 🤝 Always open to learning and collaboration
+- 🤝 Open to collaboration and new opportunities
 
-Tech Stack
+---
+
+⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,kotlin,react,nodejs,express,flask,mongodb,mysql,sqlite,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,kotlin,react,nodejs,express,flask,mongodb,mysql,sqlite,html,css,git,github&theme=dark"/>
 </p>---
 
-Featured Projects
+🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3>🛒 SastaKhoj</h3>
-<p>Local shop discovery and price comparison platform. Helping customers compare prices and find nearby stores.</p>
-<b>React · Node.js · Express · MongoDB</b>
-<br/><br/>
-<a href="https://github.com/shoryadevraj/sastakhoj-live">View Repository →</a>
-</td>
-<td width="50%">
-<h3>📱 PriceTracker Android</h3>
-<p>Offline-first Android application for managing products, tracking prices and maintaining price history.</p>
-<b>Kotlin · Jetpack Compose · SQLite</b>
-<br/><br/>
-<a href="https://github.com/shoryadevraj/PriceTracker-Android">View Repository →</a>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3>🐍 Python Portfolio Management</h3>
-<p>Portfolio management system with portfolio creation, sharing, PDF export and an admin dashboard.</p>
-<b>Python · Flask · SQLite · HTML · CSS</b>
-<br/><br/>
-<a href="https://github.com/shoryadevraj/Python-Portfolio-Management">View Repository →</a>
-</td>
-</tr>
-</table>---
+🛒 "SastaKhoj" (https://github.com/shoryadevraj/sastakhoj-live)
 
-GitHub Statistics
+A local shop discovery and price comparison platform that helps customers find products, compare prices and discover nearby stores.
+
+Tech: React.js · Node.js · Express.js · MongoDB · Leaflet
+
+📱 "PriceTracker Android" (https://github.com/shoryadevraj/PriceTracker-Android)
+
+An offline-first Android application for managing products, recording different price options and tracking price history.
+
+Tech: Kotlin · Jetpack Compose · Material 3 · SQLite
+
+🐍 "Python Portfolio Management" (https://github.com/shoryadevraj/Python-Portfolio-Management)
+
+A portfolio management system with portfolio creation, sharing, PDF export and an admin dashboard.
+
+Tech: Python · Flask · SQLite · HTML · CSS
+
+---
+
+📊 GitHub Contributions
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoryadevraj&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryadevraj&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=shoryadevraj&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub contribution streak"/>
 </p><p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=shoryadevraj&theme=github-dark-blue&hide_border=true" />
-</p>---
-
-Connect With Me
-
-<p align="center">
-  <a href="https://github.com/shoryadevraj">
-    <img src="https://img.shields.io/badge/GitHub-Shorya%20Devraj-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/shoryadevraj?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-161b22?style=for-the-badge&logo=github" />
   </a>
-</p><p align="center">
-  <i>Code. Build. Learn. Repeat.</i>
+</p>---
+
+<p align="center">
+  <strong>Code. Build. Learn. Repeat.</strong>
   <br/>
-  ⭐ Thanks for visiting my profile!
+  <sub>Thanks for visiting my profile! ⭐</sub>
 </p>
