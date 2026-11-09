@@ -1,10 +1,12 @@
 
 <h1 align="center">Hey, I'm Shorya Devraj 👋</h1>
 
+<h3 align="center">
+  Full Stack Developer | Backend Developer | Android Development
+</h3>
+
 <p align="center">
-  <strong>Full Stack Developer | Backend Developer | CSE Student</strong>
-  <br/>
-  Building practical applications and turning ideas into reality.
+  Building practical applications, exploring new technologies and turning ideas into reality.
 </p>
 
 <p align="center">
@@ -17,10 +19,12 @@
 
 - 🎓 Computer Science & Engineering student
 - 💻 Interested in Full Stack and Backend Development
-- 🚀 Building applications using JavaScript, React, Node.js and Python
-- 📱 Exploring Android development with Kotlin
-- ⚙️ Interested in APIs, automation and databases
-- 🤝 Open to collaboration and new opportunities
+- 🚀 Building applications with JavaScript, React, Node.js and Python
+- 📱 Developing Android applications using Kotlin and Jetpack Compose
+- ⚙️ Interested in APIs, automation, databases and software architecture
+- 🤝 Open to collaboration and exciting development opportunities
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -30,42 +34,51 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Development
 
 ### 🛒 [SastaKhoj](https://github.com/shoryadevraj/sastakhoj-live)
 
 **Local Shop Discovery & Price Comparison Platform**
 
-A platform that helps customers search products, compare prices across local shops and discover nearby stores.
+A web-based platform connecting customers with local shops, allowing them to search for products, compare prices and discover nearby stores.
 
-**Features**
+**Key Features**
 - Product search and category filtering
-- Local shop discovery
-- Price comparison
-- Shopkeeper dashboard
-- JWT authentication
-- Location-based maps
+- Local shop discovery with interactive maps
+- Price comparison across different shops
+- Shopkeeper dashboard and product management
+- JWT-based authentication
 - Admin management
 
-**Tech Stack:** React.js · Vite · Node.js · Express.js · MongoDB · Leaflet
+**Tech Stack**
+
+`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `Leaflet`
 
 ---
 
-### 📱 [PriceTracker Android](https://github.com/shoryadevraj/PriceTracker-Android)
+### 📦 [ShopTrackPro](https://github.com/shoryadevraj/ShopTrackPro)
 
-**Offline-First Personal Price Tracking Application**
+**Offline-First Shop Inventory & Management Application**
 
-An Android application for managing personal product prices, maintaining price history and organizing product information without an internet connection.
+An Android application designed to help shopkeepers manage multiple shops, products, inventory, prices and daily sales operations.
 
-**Features**
-- English and Hindi product names
-- Multiple quantity and price options
-- Price history and trend graphs
-- Product search and category filtering
-- Light and dark themes
+**Key Features**
+- Multi-shop management
+- Product catalog with Hindi and Hinglish aliases
+- Barcode scanning and product matching
+- Text recognition using Google ML Kit
+- Stock management and inventory movements
+- Low-stock identification
+- Sales records and reports
+- Product price history
 - JSON backup and restore
+- PIN-based application access
 
-**Tech Stack:** Kotlin · Android SDK · Jetpack Compose · Material 3 · SQLite
+**Tech Stack**
+
+`Kotlin` `Jetpack Compose` `Material 3` `Room` `SQLite` `ZXing` `Google ML Kit` `Gson`
+
+<sub>Current repository version: 2.2.6</sub>
 
 ---
 
@@ -75,15 +88,17 @@ An Android application for managing personal product prices, maintaining price h
 
 A web application that allows users to create, manage, share and export professional portfolios, with an administrative dashboard.
 
-**Features**
+**Key Features**
 - Create and update portfolios
 - Share portfolio links
 - Export portfolios as PDF
 - Live portfolio pages
-- Admin authentication
+- Secure admin login
 - Portfolio management dashboard
 
-**Tech Stack:** Python · Flask · SQLite · HTML5 · CSS3 · ReportLab
+**Tech Stack**
+
+`Python` `Flask` `SQLite` `HTML5` `CSS3` `ReportLab`
 
 ---
 
@@ -91,17 +106,22 @@ A web application that allows users to create, manage, share and export professi
 
 **Private Discord Music Automation Project**
 
-A configurable Discord music automation project with playback controls, queue management and Lavalink integration.
+A configurable music automation project featuring playback controls, queue management, audio filters and Lavalink integration.
 
-**Features**
-- Music playback and queue management
+**Key Features**
+- Music playback and automatic queue
 - Pause, resume, skip and volume controls
 - Audio filters and effects
-- Lavalink integration
-- Configurable commands and permissions
-- Process management with PM2
+- Local and remote Lavalink support
+- Configurable commands and channel restrictions
+- Owner-only administrative commands
+- Process management using PM2
 
-**Tech Stack:** JavaScript · Node.js · Lavalink · Java · PM2
+**Tech Stack**
+
+`JavaScript` `Node.js` `Lavalink` `Java` `PM2`
+
+<sub>Personal experimental project. Discord selfbots may violate Discord's Terms of Service.</sub>
 
 ---
 
@@ -109,15 +129,14 @@ A configurable Discord music automation project with playback controls, queue ma
 
 <p align="center">
   <a href="https://github.com/shoryadevraj?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/shoryadevraj?tab=stars">
-    <img src="https://img.shields.io/badge/My%20Stars-161b22?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/ALL%20PROJECTS-Explore%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Check out my contribution calendar and activity directly on my GitHub profile.</strong>
+  <a href="https://github.com/shoryadevraj?tab=stars">
+    <img src="https://img.shields.io/badge/GITHUB%20STARS-Explore%20Stars-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
