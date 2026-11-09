@@ -1,19 +1,14 @@
 
 <h1 align="center">Hey, I'm Shorya Devraj 👋</h1>
 
-<h3 align="center">
-  Full Stack Developer | Backend Developer | Software Enthusiast
-</h3>
-
 <p align="center">
-  Building applications, experimenting with technologies and turning ideas into reality.
+  <strong>Full Stack Developer | Backend Developer | CSE Student</strong>
+  <br/>
+  Building practical applications and turning ideas into reality.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shoryadevraj&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" />
-  <a href="https://github.com/shoryadevraj?tab=followers">
-    <img src="https://img.shields.io/github/followers/shoryadevraj?style=flat-square&color=58a6ff&label=FOLLOWERS" />
-  </a>
 </p>
 
 ---
@@ -22,13 +17,10 @@
 
 - 🎓 Computer Science & Engineering student
 - 💻 Interested in Full Stack and Backend Development
-- 🚀 Building projects using JavaScript, Python and modern frameworks
+- 🚀 Building applications using JavaScript, React, Node.js and Python
 - 📱 Exploring Android development with Kotlin
-- ⚙️ Interested in APIs, automation and database management
-- 🌱 Always learning and improving my development skills
+- ⚙️ Interested in APIs, automation and databases
 - 🤝 Open to collaboration and new opportunities
-
----
 
 ## 🛠️ Tech Stack
 
@@ -38,24 +30,24 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
 ### 🛒 [SastaKhoj](https://github.com/shoryadevraj/sastakhoj-live)
 
 **Local Shop Discovery & Price Comparison Platform**
 
-A web-based platform that helps customers search for products, compare prices across local shops and discover nearby stores.
+A platform that helps customers search products, compare prices across local shops and discover nearby stores.
 
 **Features**
 - Product search and category filtering
 - Local shop discovery
-- Product price comparison
+- Price comparison
 - Shopkeeper dashboard
-- JWT-based authentication
-- Location-based shop discovery with maps
+- JWT authentication
+- Location-based maps
 - Admin management
 
-**Technologies:** React.js, Vite, Node.js, Express.js, MongoDB, Mongoose, Leaflet
+**Tech Stack:** React.js · Vite · Node.js · Express.js · MongoDB · Leaflet
 
 ---
 
@@ -63,17 +55,17 @@ A web-based platform that helps customers search for products, compare prices ac
 
 **Offline-First Personal Price Tracking Application**
 
-An Android application designed to manage personal product prices, maintain price history and organize product information without requiring an internet connection.
+An Android application for managing personal product prices, maintaining price history and organizing product information without an internet connection.
 
 **Features**
-- Product management with English and Hindi names
+- English and Hindi product names
 - Multiple quantity and price options
 - Price history and trend graphs
 - Product search and category filtering
 - Light and dark themes
 - JSON backup and restore
 
-**Technologies:** Kotlin, Android SDK, Jetpack Compose, Material 3, SQLite, Coroutines
+**Tech Stack:** Kotlin · Android SDK · Jetpack Compose · Material 3 · SQLite
 
 ---
 
@@ -91,7 +83,7 @@ A web application that allows users to create, manage, share and export professi
 - Admin authentication
 - Portfolio management dashboard
 
-**Technologies:** Python, Flask, SQLite, HTML5, CSS3, ReportLab
+**Tech Stack:** Python · Flask · SQLite · HTML5 · CSS3 · ReportLab
 
 ---
 
@@ -99,7 +91,7 @@ A web application that allows users to create, manage, share and export professi
 
 **Private Discord Music Automation Project**
 
-A configurable Discord music selfbot project with playback controls, queue management and Lavalink integration.
+A configurable Discord music automation project with playback controls, queue management and Lavalink integration.
 
 **Features**
 - Music playback and queue management
@@ -109,23 +101,23 @@ A configurable Discord music selfbot project with playback controls, queue manag
 - Configurable commands and permissions
 - Process management with PM2
 
-**Technologies:** JavaScript, Node.js, Lavalink, Java, PM2
+**Tech Stack:** JavaScript · Node.js · Lavalink · Java · PM2
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoryadevraj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryadevraj&layout=compact&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/shoryadevraj?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/shoryadevraj?tab=stars">
+    <img src="https://img.shields.io/badge/My%20Stars-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoryadevraj&theme=github-compact&hide_border=true" width="100%" />
+  <strong>Check out my contribution calendar and activity directly on my GitHub profile.</strong>
 </p>
 
 ---
@@ -139,7 +131,7 @@ A configurable Discord music selfbot project with playback controls, queue manag
 </p>
 
 <p align="center">
-  <i>Code. Build. Experiment. Repeat.</i>
+  <strong>Code. Build. Experiment. Repeat.</strong>
   <br/><br/>
   ⭐ Thanks for visiting my profile!
 </p>
